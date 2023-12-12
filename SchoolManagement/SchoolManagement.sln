@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagementWinApp", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{EC1291F2-1500-4AE3-AD37-FD074A9112DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{BA2FA887-AC55-471C-B022-A69C84014997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EC1291F2-1500-4AE3-AD37-FD074A9112DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC1291F2-1500-4AE3-AD37-FD074A9112DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC1291F2-1500-4AE3-AD37-FD074A9112DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2FA887-AC55-471C-B022-A69C84014997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2FA887-AC55-471C-B022-A69C84014997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2FA887-AC55-471C-B022-A69C84014997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2FA887-AC55-471C-B022-A69C84014997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
